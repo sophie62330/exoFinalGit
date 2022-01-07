@@ -7,6 +7,8 @@ var chai = require('chai');
 var expect = chai.expect;
 var sinon = require('sinon');
 
+
+
 /* Include module(s) to test */
 var fetchWeather = require('../fetch-weather');
 
